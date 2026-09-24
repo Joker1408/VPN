@@ -105,192 +105,8 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 172.67.67.192:2096 [VLESS]",
-      "server": "172.67.67.192",
-      "server_port": 2096,
-      "uuid": "f6d73a6b-5355-4427-a22c-833030c409a6",
-      "transport": {
-        "path": "/562318fcaf4a",
-        "type": "ws",
-        "headers": {
-          "Host": "willow-ridge-be37.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "willow-ridge-be37.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.16.146.44:8443 [VLESS]",
-      "server": "104.16.146.44",
-      "server_port": 8443,
-      "uuid": "f6d73a6b-5355-4427-a22c-833030c409a6",
-      "transport": {
-        "path": "/562318fcaf4a",
-        "type": "ws",
-        "headers": {
-          "Host": "willow-ridge-be37.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "willow-ridge-be37.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.17.117.83:2087 [VLESS]",
-      "server": "104.17.117.83",
-      "server_port": 2087,
-      "uuid": "f6d73a6b-5355-4427-a22c-833030c409a6",
-      "transport": {
-        "path": "/562318fcaf4a",
-        "type": "ws",
-        "headers": {
-          "Host": "willow-ridge-be37.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "willow-ridge-be37.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.16.240.23:2087 [VLESS]",
-      "server": "104.16.240.23",
-      "server_port": 2087,
-      "uuid": "f6d73a6b-5355-4427-a22c-833030c409a6",
-      "transport": {
-        "path": "/562318fcaf4a",
-        "type": "ws",
-        "headers": {
-          "Host": "willow-ridge-be37.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "willow-ridge-be37.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.19.145.69:2053 [VLESS]",
-      "server": "104.19.145.69",
-      "server_port": 2053,
-      "uuid": "f6d73a6b-5355-4427-a22c-833030c409a6",
-      "transport": {
-        "path": "/562318fcaf4a",
-        "type": "ws",
-        "headers": {
-          "Host": "willow-ridge-be37.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "willow-ridge-be37.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 188.164.248.171:2053 [VLESS]",
-      "server": "188.164.248.171",
-      "server_port": 2053,
-      "uuid": "f6d73a6b-5355-4427-a22c-833030c409a6",
-      "transport": {
-        "path": "/562318fcaf4a",
-        "type": "ws",
-        "headers": {
-          "Host": "willow-ridge-be37.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "willow-ridge-be37.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.19.33.57:2096 [VLESS]",
-      "server": "104.19.33.57",
-      "server_port": 2096,
-      "uuid": "f6d73a6b-5355-4427-a22c-833030c409a6",
-      "transport": {
-        "path": "/562318fcaf4a",
-        "type": "ws",
-        "headers": {
-          "Host": "willow-ridge-be37.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "willow-ridge-be37.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.18.33.2:2096 [VLESS]",
-      "server": "104.18.33.2",
-      "server_port": 2096,
-      "uuid": "f6d73a6b-5355-4427-a22c-833030c409a6",
-      "transport": {
-        "path": "/562318fcaf4a",
-        "type": "ws",
-        "headers": {
-          "Host": "willow-ridge-be37.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "willow-ridge-be37.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.18.33.14:443 [VLESS]",
-      "server": "104.18.33.14",
+      "tag": "سرویس رایگان نوا @irnova 198.41.209.0:443 [VLESS]",
+      "server": "198.41.209.0",
       "server_port": 443,
       "uuid": "f6d73a6b-5355-4427-a22c-833030c409a6",
       "transport": {
@@ -312,147 +128,331 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 8.35.211.35:2096 [VLESS]",
-      "server": "8.35.211.35",
+      "tag": "سرویس رایگان نوا @irnova 104.17.56.121:8443 [VLESS]",
+      "server": "104.17.56.121",
+      "server_port": 8443,
+      "uuid": "f6d73a6b-5355-4427-a22c-833030c409a6",
+      "transport": {
+        "path": "/562318fcaf4a",
+        "type": "ws",
+        "headers": {
+          "Host": "willow-ridge-be37.pages.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "willow-ridge-be37.pages.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.18.33.163:2087 [VLESS]",
+      "server": "104.18.33.163",
+      "server_port": 2087,
+      "uuid": "f6d73a6b-5355-4427-a22c-833030c409a6",
+      "transport": {
+        "path": "/562318fcaf4a",
+        "type": "ws",
+        "headers": {
+          "Host": "willow-ridge-be37.pages.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "willow-ridge-be37.pages.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 8.35.211.73:2087 [VLESS]",
+      "server": "8.35.211.73",
+      "server_port": 2087,
+      "uuid": "f6d73a6b-5355-4427-a22c-833030c409a6",
+      "transport": {
+        "path": "/562318fcaf4a",
+        "type": "ws",
+        "headers": {
+          "Host": "willow-ridge-be37.pages.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "willow-ridge-be37.pages.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 162.159.42.186:2053 [VLESS]",
+      "server": "162.159.42.186",
+      "server_port": 2053,
+      "uuid": "f6d73a6b-5355-4427-a22c-833030c409a6",
+      "transport": {
+        "path": "/562318fcaf4a",
+        "type": "ws",
+        "headers": {
+          "Host": "willow-ridge-be37.pages.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "willow-ridge-be37.pages.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.17.56.127:2087 [VLESS]",
+      "server": "104.17.56.127",
+      "server_port": 2087,
+      "uuid": "f6d73a6b-5355-4427-a22c-833030c409a6",
+      "transport": {
+        "path": "/562318fcaf4a",
+        "type": "ws",
+        "headers": {
+          "Host": "willow-ridge-be37.pages.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "willow-ridge-be37.pages.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.17.27.87:8443 [VLESS]",
+      "server": "104.17.27.87",
+      "server_port": 8443,
+      "uuid": "f6d73a6b-5355-4427-a22c-833030c409a6",
+      "transport": {
+        "path": "/562318fcaf4a",
+        "type": "ws",
+        "headers": {
+          "Host": "willow-ridge-be37.pages.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "willow-ridge-be37.pages.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.26.7.144:2087 [VLESS]",
+      "server": "104.26.7.144",
+      "server_port": 2087,
+      "uuid": "f6d73a6b-5355-4427-a22c-833030c409a6",
+      "transport": {
+        "path": "/562318fcaf4a",
+        "type": "ws",
+        "headers": {
+          "Host": "willow-ridge-be37.pages.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "willow-ridge-be37.pages.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 91.193.59.248:2083 [VLESS]",
+      "server": "91.193.59.248",
+      "server_port": 2083,
+      "uuid": "f6d73a6b-5355-4427-a22c-833030c409a6",
+      "transport": {
+        "path": "/562318fcaf4a",
+        "type": "ws",
+        "headers": {
+          "Host": "willow-ridge-be37.pages.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "willow-ridge-be37.pages.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.17.117.73:443 [VLESS]",
+      "server": "104.17.117.73",
+      "server_port": 443,
+      "uuid": "f6d73a6b-5355-4427-a22c-833030c409a6",
+      "transport": {
+        "path": "/562318fcaf4a",
+        "type": "ws",
+        "headers": {
+          "Host": "willow-ridge-be37.pages.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "willow-ridge-be37.pages.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 91.193.58.149:2083 [VLESS]",
+      "server": "91.193.58.149",
+      "server_port": 2083,
+      "uuid": "f6d73a6b-5355-4427-a22c-833030c409a6",
+      "transport": {
+        "path": "/562318fcaf4a",
+        "type": "ws",
+        "headers": {
+          "Host": "willow-ridge-be37.pages.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "willow-ridge-be37.pages.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.17.31.241:2053 [VLESS]",
+      "server": "104.17.31.241",
+      "server_port": 2053,
+      "uuid": "f6d73a6b-5355-4427-a22c-833030c409a6",
+      "transport": {
+        "path": "/562318fcaf4a",
+        "type": "ws",
+        "headers": {
+          "Host": "willow-ridge-be37.pages.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "willow-ridge-be37.pages.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 108.162.198.25:443 [VLESS]",
+      "server": "108.162.198.25",
+      "server_port": 443,
+      "uuid": "f6d73a6b-5355-4427-a22c-833030c409a6",
+      "transport": {
+        "path": "/562318fcaf4a",
+        "type": "ws",
+        "headers": {
+          "Host": "willow-ridge-be37.pages.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "willow-ridge-be37.pages.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.16.157.99:443 [VLESS]",
+      "server": "104.16.157.99",
+      "server_port": 443,
+      "uuid": "f6d73a6b-5355-4427-a22c-833030c409a6",
+      "transport": {
+        "path": "/562318fcaf4a",
+        "type": "ws",
+        "headers": {
+          "Host": "willow-ridge-be37.pages.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "willow-ridge-be37.pages.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.17.50.80:2083 [VLESS]",
+      "server": "104.17.50.80",
+      "server_port": 2083,
+      "uuid": "f6d73a6b-5355-4427-a22c-833030c409a6",
+      "transport": {
+        "path": "/562318fcaf4a",
+        "type": "ws",
+        "headers": {
+          "Host": "willow-ridge-be37.pages.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "willow-ridge-be37.pages.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.17.178.194:2096 [VLESS]",
+      "server": "104.17.178.194",
       "server_port": 2096,
-      "uuid": "f6d73a6b-5355-4427-a22c-833030c409a6",
-      "transport": {
-        "path": "/562318fcaf4a",
-        "type": "ws",
-        "headers": {
-          "Host": "willow-ridge-be37.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "willow-ridge-be37.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.19.35.212:8443 [VLESS]",
-      "server": "104.19.35.212",
-      "server_port": 8443,
-      "uuid": "f6d73a6b-5355-4427-a22c-833030c409a6",
-      "transport": {
-        "path": "/562318fcaf4a",
-        "type": "ws",
-        "headers": {
-          "Host": "willow-ridge-be37.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "willow-ridge-be37.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 8.35.211.140:8443 [VLESS]",
-      "server": "8.35.211.140",
-      "server_port": 8443,
-      "uuid": "f6d73a6b-5355-4427-a22c-833030c409a6",
-      "transport": {
-        "path": "/562318fcaf4a",
-        "type": "ws",
-        "headers": {
-          "Host": "willow-ridge-be37.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "willow-ridge-be37.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.16.154.76:8443 [VLESS]",
-      "server": "104.16.154.76",
-      "server_port": 8443,
-      "uuid": "f6d73a6b-5355-4427-a22c-833030c409a6",
-      "transport": {
-        "path": "/562318fcaf4a",
-        "type": "ws",
-        "headers": {
-          "Host": "willow-ridge-be37.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "willow-ridge-be37.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 8.35.211.91:2053 [VLESS]",
-      "server": "8.35.211.91",
-      "server_port": 2053,
-      "uuid": "f6d73a6b-5355-4427-a22c-833030c409a6",
-      "transport": {
-        "path": "/562318fcaf4a",
-        "type": "ws",
-        "headers": {
-          "Host": "willow-ridge-be37.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "willow-ridge-be37.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 162.159.37.142:8443 [VLESS]",
-      "server": "162.159.37.142",
-      "server_port": 8443,
-      "uuid": "f6d73a6b-5355-4427-a22c-833030c409a6",
-      "transport": {
-        "path": "/562318fcaf4a",
-        "type": "ws",
-        "headers": {
-          "Host": "willow-ridge-be37.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "willow-ridge-be37.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 172.66.2.217:2053 [VLESS]",
-      "server": "172.66.2.217",
-      "server_port": 2053,
       "uuid": "f6d73a6b-5355-4427-a22c-833030c409a6",
       "transport": {
         "path": "/562318fcaf4a",
@@ -480,22 +480,22 @@
         "🔮 负载均衡",
         "DIRECT",
         "سرویس رایگان نوا @irnova willow-ridge-be37.pages.dev:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.67.67.192:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.146.44:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.117.83:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.240.23:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.145.69:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 188.164.248.171:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.33.57:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.33.2:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.33.14:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.35.211.35:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.35.212:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.35.211.140:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.154.76:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.35.211.91:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 162.159.37.142:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.66.2.217:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 198.41.209.0:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.56.121:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.18.33.163:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 8.35.211.73:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.42.186:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.56.127:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.27.87:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.26.7.144:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 91.193.59.248:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.117.73:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 91.193.58.149:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.31.241:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 108.162.198.25:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.157.99:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.50.80:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.178.194:2096 [VLESS]",
         "📢 https://t.me/irnova",
         "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01"
       ]
@@ -505,22 +505,22 @@
       "tag": "♻️ 自动选择",
       "outbounds": [
         "سرویس رایگان نوا @irnova willow-ridge-be37.pages.dev:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.67.67.192:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.146.44:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.117.83:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.240.23:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.145.69:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 188.164.248.171:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.33.57:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.33.2:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.33.14:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.35.211.35:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.35.212:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.35.211.140:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.154.76:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.35.211.91:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 162.159.37.142:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.66.2.217:2053 [VLESS]"
+        "سرویس رایگان نوا @irnova 198.41.209.0:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.56.121:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.18.33.163:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 8.35.211.73:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.42.186:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.56.127:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.27.87:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.26.7.144:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 91.193.59.248:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.117.73:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 91.193.58.149:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.31.241:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 108.162.198.25:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.157.99:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.50.80:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.178.194:2096 [VLESS]"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "5m",
@@ -531,22 +531,22 @@
       "tag": "🔯 故障转移",
       "outbounds": [
         "سرویس رایگان نوا @irnova willow-ridge-be37.pages.dev:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.67.67.192:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.146.44:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.117.83:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.240.23:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.145.69:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 188.164.248.171:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.33.57:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.33.2:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.33.14:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.35.211.35:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.35.212:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.35.211.140:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.154.76:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.35.211.91:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 162.159.37.142:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.66.2.217:2053 [VLESS]"
+        "سرویس رایگان نوا @irnova 198.41.209.0:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.56.121:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.18.33.163:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 8.35.211.73:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.42.186:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.56.127:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.27.87:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.26.7.144:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 91.193.59.248:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.117.73:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 91.193.58.149:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.31.241:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 108.162.198.25:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.157.99:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.50.80:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.178.194:2096 [VLESS]"
       ]
     },
     {
@@ -554,22 +554,22 @@
       "tag": "🔮 负载均衡",
       "outbounds": [
         "سرویس رایگان نوا @irnova willow-ridge-be37.pages.dev:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.67.67.192:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.146.44:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.117.83:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.240.23:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.145.69:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 188.164.248.171:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.33.57:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.33.2:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.33.14:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.35.211.35:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.35.212:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.35.211.140:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.154.76:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.35.211.91:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 162.159.37.142:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.66.2.217:2053 [VLESS]"
+        "سرویس رایگان نوا @irnova 198.41.209.0:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.56.121:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.18.33.163:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 8.35.211.73:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.42.186:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.56.127:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.27.87:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.26.7.144:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 91.193.59.248:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.117.73:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 91.193.58.149:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.31.241:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 108.162.198.25:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.157.99:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.50.80:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.178.194:2096 [VLESS]"
       ]
     },
     {
@@ -603,22 +603,22 @@
         "🔯 故障转移",
         "🔮 负载均衡",
         "سرویس رایگان نوا @irnova willow-ridge-be37.pages.dev:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.67.67.192:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.146.44:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.117.83:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.240.23:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.145.69:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 188.164.248.171:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.33.57:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.33.2:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.33.14:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.35.211.35:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.35.212:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.35.211.140:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.154.76:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.35.211.91:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 162.159.37.142:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.66.2.217:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 198.41.209.0:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.56.121:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.18.33.163:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 8.35.211.73:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.42.186:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.56.127:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.27.87:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.26.7.144:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 91.193.59.248:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.117.73:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 91.193.58.149:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.31.241:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 108.162.198.25:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.157.99:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.50.80:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.178.194:2096 [VLESS]",
         "📢 https://t.me/irnova",
         "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01"
       ]
@@ -634,22 +634,22 @@
         "🔯 故障转移",
         "🔮 负载均衡",
         "سرویس رایگان نوا @irnova willow-ridge-be37.pages.dev:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.67.67.192:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.146.44:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.117.83:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.240.23:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.145.69:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 188.164.248.171:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.33.57:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.33.2:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.33.14:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.35.211.35:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.35.212:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.35.211.140:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.154.76:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.35.211.91:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 162.159.37.142:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.66.2.217:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 198.41.209.0:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.56.121:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.18.33.163:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 8.35.211.73:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.42.186:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.56.127:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.27.87:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.26.7.144:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 91.193.59.248:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.117.73:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 91.193.58.149:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.31.241:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 108.162.198.25:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.157.99:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.50.80:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.178.194:2096 [VLESS]",
         "📢 https://t.me/irnova",
         "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01"
       ]
@@ -660,22 +660,22 @@
       "outbounds": [
         "DIRECT",
         "سرویس رایگان نوا @irnova willow-ridge-be37.pages.dev:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.67.67.192:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.146.44:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.117.83:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.240.23:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.145.69:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 188.164.248.171:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.33.57:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.33.2:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.33.14:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.35.211.35:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.35.212:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.35.211.140:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.154.76:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.35.211.91:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 162.159.37.142:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.66.2.217:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 198.41.209.0:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.56.121:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.18.33.163:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 8.35.211.73:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.42.186:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.56.127:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.27.87:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.26.7.144:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 91.193.59.248:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.117.73:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 91.193.58.149:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.31.241:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 108.162.198.25:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.157.99:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.50.80:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.178.194:2096 [VLESS]",
         "📢 https://t.me/irnova",
         "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01"
       ]
@@ -8159,7 +8159,16 @@
           "ymax7z224wf.4cbdo.adobestats.io",
           "zm9vka6gfi2.4cbdo.adobestats.io",
           "fekuerjze5.4cbdo.adobestats.io",
-          "fire-fly.adobe.io"
+          "fire-fly.adobe.io",
+          "6u13v.adobestats.io",
+          "0iyjdjohepq.6u13v.adobestats.io",
+          "29kpwdbf1m.6u13v.adobestats.io",
+          "8zoh1hwp.6u13v.adobestats.io",
+          "f0amtxkpj6.6u13v.adobestats.io",
+          "k1ojvlkr7ob0.6u13v.adobestats.io",
+          "pirn9t2nbqxs.6u13v.adobestats.io",
+          "qrkm8lznul.6u13v.adobestats.io",
+          "ynb4dnmkb3.6u13v.adobestats.io"
         ],
         "outbound": "🛑 全球拦截",
         "action": "route"
